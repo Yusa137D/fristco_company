@@ -62,6 +62,11 @@ flutter:
     - assets/images/product6.jpeg
     - assets/images/ig.jpeg
     - assets/images/shopee.jpeg
+    - assets/images/logo_header.jpeg 
+    - assets/images/logo_teks.jpeg
+    - assets/images/owner.jpeg
+    - assets/images/developer.jpeg
+    - assets/images/contributor3.jpeg
   # The following line ensures that the Material Icons font is
   # included with your application, so that you can use the icons in
   # the material Icons class.
